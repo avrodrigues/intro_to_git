@@ -3,3 +3,33 @@
 Repository for the workshop on Git and GitHub
 
 In the workshop we will test the basic functionalities of Git and GitHub
+
+# Intro to colaboration using git
+
+Today, we are going to create a README file colaboratively. The idea is that we practice the git commands and the workflow of colaboration through git, as well as we can learn what can we do when a conflict hapens. 
+
+We have a new github profile for the Life History Evolution lab, and the plan is to write a simple description of the lab, that will apper in the profile page. 
+You can use the [lab website](https://www.helsinki.fi/en/researchgroups/life-history-evolution) to get a description of the lab or any other informaton, but you don't need to add a too long description. 
+
+Follow the instruction given during the workshop. Here you will find some resources that could help you during the activity. 
+
+## Markdown
+
+Files with .md use markdown to format the text. With markdown you add style to your text file easyly. 
+
+You can create headers, put emphasis on text with *italics* or **bold**. 
+You can create list:
+-   item 1
+- item 2
+- item 3
+
+You can share links, code chuncks and even add some images to your rendered files. 
+
+For example with this code `![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)` reuse the image from the lab webpage. 
+
+`![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)
+
+Here you can find a [cheatsheet for Markdown](https://www.markdownguide.org/cheat-sheet/)
+
+
+
